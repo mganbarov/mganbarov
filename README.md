@@ -1,4 +1,4 @@
-<img width="717" height="372" alt="image" src="https://github.com/user-attachments/assets/c55208c9-105c-470c-8236-50ab0fd8adf4" /><img width="717" height="372" alt="image" src="https://github.com/user-attachments/assets/249d86f6-8006-4abb-9732-f3cd8b932332" /># Hi there! I'm Murad Ganbarov 👋
+# Hi there! I'm Murad Ganbarov 👋
 
 ### Full-Stack .NET Developer | System Architect Enthusiast
 
