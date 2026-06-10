@@ -19,7 +19,7 @@ Results-driven Full-Stack Developer with 2.5+ years of experience in designing a
 
 * **Email:** [mganbarov9@gmail.com](mailto:mganbarov9@gmail.com)
 * **LinkedIn:** [linkedin.com/in/mganbarov](https://www.linkedin.com/in/mganbarov/)
-* **CV:** [https://raw.githubusercontent.com/mganbarov/mganbarov/main/CV.pdf]
+* **CV:** [(https://img.shields.io/badge/View-CV-blue?style=for-the-badge)](https://github.com/mganbarov/mganbarov/blob/main/CV.pdf)
 ---
 ### 🛠 Tech Stack
 
